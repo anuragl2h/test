@@ -1,1 +1,2 @@
-print("hello, world!)
+a = "anurag"
+print(f"hello, {a}")
